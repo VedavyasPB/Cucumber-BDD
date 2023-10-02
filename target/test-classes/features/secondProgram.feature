@@ -23,3 +23,6 @@ Feature: Application login
       | UserName   | PassWord   |
       | debituser  | achala$123 |
       | credituser | Hero123    |
+      | EMRI User  | emri$123   |
+      
+      #Adding a comment
